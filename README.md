@@ -1,1 +1,1 @@
-# ec2-key-terraform
+# Creating EC2 with key using terraform
